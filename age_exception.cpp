@@ -2,7 +2,6 @@
 Name:Devkarthik Suresh
 PRN:23070123045
 Aim: Exception to check for age below 18.
-#include <iostream>
   */
 #include <iostream>
 using namespace std;
