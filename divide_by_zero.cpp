@@ -1,3 +1,8 @@
+/*
+Name:Devkarthik Suresh
+PRN:23070123045
+Aim: Exception to check for 0 division error
+  */
 #include <iostream>
 using namespace std;
 int main() {
